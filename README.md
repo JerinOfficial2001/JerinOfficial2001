@@ -35,4 +35,4 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange)](https://www.buymeacoffee.com/JerinOfficial2001)
